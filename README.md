@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-## ⚡ Minhas stacks
+## ⚡ Stacks
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
