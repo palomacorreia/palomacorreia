@@ -1,7 +1,7 @@
 ### Hi there, I'm Paloma 👋
 
 * 💻 I’m currently working with Systems Analysis
-* 📚 I’m currently learning Java,Typescript and Dart.
+* 📚 I’m a fullstack software engineer and I use Java Typescript and Dart technologies
 
 <!--
 **palomacorreia/palomacorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
